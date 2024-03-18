@@ -86,4 +86,8 @@ h1 {
     font-size: 1rem;
     border-radius: 0.5rem;
 }
+
+.actual-image {
+    object-fit:contain;
+}
  
